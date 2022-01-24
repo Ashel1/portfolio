@@ -101,6 +101,23 @@
     background-size:     cover;                    
     background-repeat:   no-repeat;
     background-position: center center;
+}.icon-golang{
+    background: url('./../images/golang.png');
+    background-size:     cover;                    
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
+.icon-angular{
+    background: url('./../images/angular.png');
+    background-size:     cover;                    
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
+.icon-flask{
+    background: url('./../images/flask.png');
+    background-size:     cover;                    
+    background-repeat:   no-repeat;
+    background-position: center center;
 }
 .icon-wallet:before {
     content: "\e016";
